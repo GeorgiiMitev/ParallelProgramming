@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\ThreadPriorities\bin\Debug\net8.0\ThreadPriorities.exe
+d:\users\fmi\Desktop\ThreadPriorities\bin\Debug\net8.0\ThreadPriorities.deps.json
+d:\users\fmi\Desktop\ThreadPriorities\bin\Debug\net8.0\ThreadPriorities.runtimeconfig.json
+d:\users\fmi\Desktop\ThreadPriorities\bin\Debug\net8.0\ThreadPriorities.dll
+d:\users\fmi\Desktop\ThreadPriorities\bin\Debug\net8.0\ThreadPriorities.pdb
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.AssemblyInfo.cs
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.dll
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\refint\ThreadPriorities.dll
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.pdb
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ThreadPriorities.genruntimeconfig.cache
+d:\users\fmi\Desktop\ThreadPriorities\obj\Debug\net8.0\ref\ThreadPriorities.dll

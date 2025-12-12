@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\bin\Debug\net8.0\BarSimulator.exe
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\bin\Debug\net8.0\BarSimulator.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\bin\Debug\net8.0\BarSimulator.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\bin\Debug\net8.0\BarSimulator.dll
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\bin\Debug\net8.0\BarSimulator.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.dll
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\refint\BarSimulator.dll
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\BarSimulator.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\BarSimulator\obj\Debug\net8.0\ref\BarSimulator.dll

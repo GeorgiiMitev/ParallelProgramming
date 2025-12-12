@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\ThreadParams\bin\Debug\net8.0\ThreadParams.exe
+d:\users\fmi\Desktop\ThreadParams\bin\Debug\net8.0\ThreadParams.deps.json
+d:\users\fmi\Desktop\ThreadParams\bin\Debug\net8.0\ThreadParams.runtimeconfig.json
+d:\users\fmi\Desktop\ThreadParams\bin\Debug\net8.0\ThreadParams.dll
+d:\users\fmi\Desktop\ThreadParams\bin\Debug\net8.0\ThreadParams.pdb
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.AssemblyInfo.cs
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.dll
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\refint\ThreadParams.dll
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.pdb
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ThreadParams.genruntimeconfig.cache
+d:\users\fmi\Desktop\ThreadParams\obj\Debug\net8.0\ref\ThreadParams.dll

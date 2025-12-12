@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\bin\Debug\net8.0\OrchestrationWithSignals.exe
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\bin\Debug\net8.0\OrchestrationWithSignals.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\bin\Debug\net8.0\OrchestrationWithSignals.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\bin\Debug\net8.0\OrchestrationWithSignals.dll
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\bin\Debug\net8.0\OrchestrationWithSignals.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.dll
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\refint\OrchestrationWithSignals.dll
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\OrchestrationWithSignals.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\OrchestrationWithSignals\obj\Debug\net8.0\ref\OrchestrationWithSignals.dll

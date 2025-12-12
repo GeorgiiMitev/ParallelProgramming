@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\bin\Debug\net8.0\CancellingThreads.exe
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\bin\Debug\net8.0\CancellingThreads.deps.json
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\bin\Debug\net8.0\CancellingThreads.runtimeconfig.json
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\bin\Debug\net8.0\CancellingThreads.dll
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\bin\Debug\net8.0\CancellingThreads.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.AssemblyInfo.cs
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.dll
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\refint\CancellingThreads.dll
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\CancellingThreads.genruntimeconfig.cache
+d:\users\fmi\Desktop\C# Parallel Programming\CancellingThreads\obj\Debug\net8.0\ref\CancellingThreads.dll

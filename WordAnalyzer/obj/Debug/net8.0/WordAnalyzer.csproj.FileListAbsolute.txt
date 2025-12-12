@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.exe
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.deps.json
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.runtimeconfig.json
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.dll
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\bin\Debug\net8.0\WordAnalyzer.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.AssemblyInfo.cs
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.dll
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\refint\WordAnalyzer.dll
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\WordAnalyzer.genruntimeconfig.cache
+d:\users\fmi\Desktop\C# Parallel Programming\WordAnalyzer\obj\Debug\net8.0\ref\WordAnalyzer.dll

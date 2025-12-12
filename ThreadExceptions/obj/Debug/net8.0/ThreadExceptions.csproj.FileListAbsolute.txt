@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\bin\Debug\net8.0\ThreadExceptions.exe
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\bin\Debug\net8.0\ThreadExceptions.deps.json
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\bin\Debug\net8.0\ThreadExceptions.runtimeconfig.json
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\bin\Debug\net8.0\ThreadExceptions.dll
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\bin\Debug\net8.0\ThreadExceptions.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.AssemblyInfo.cs
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.dll
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\refint\ThreadExceptions.dll
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ThreadExceptions.genruntimeconfig.cache
+d:\users\fmi\Desktop\C# Parallel Programming\ThreadExceptions\obj\Debug\net8.0\ref\ThreadExceptions.dll

@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\ThreadResultAndJoin\bin\Debug\net8.0\ThreadResultAndJoin.exe
+d:\users\fmi\Desktop\ThreadResultAndJoin\bin\Debug\net8.0\ThreadResultAndJoin.deps.json
+d:\users\fmi\Desktop\ThreadResultAndJoin\bin\Debug\net8.0\ThreadResultAndJoin.runtimeconfig.json
+d:\users\fmi\Desktop\ThreadResultAndJoin\bin\Debug\net8.0\ThreadResultAndJoin.dll
+d:\users\fmi\Desktop\ThreadResultAndJoin\bin\Debug\net8.0\ThreadResultAndJoin.pdb
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.AssemblyInfo.cs
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.dll
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\refint\ThreadResultAndJoin.dll
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.pdb
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ThreadResultAndJoin.genruntimeconfig.cache
+d:\users\fmi\Desktop\ThreadResultAndJoin\obj\Debug\net8.0\ref\ThreadResultAndJoin.dll

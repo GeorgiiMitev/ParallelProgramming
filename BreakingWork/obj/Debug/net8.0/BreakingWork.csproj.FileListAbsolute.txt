@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\bin\Debug\net8.0\BreakingWork.exe
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\bin\Debug\net8.0\BreakingWork.deps.json
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\bin\Debug\net8.0\BreakingWork.runtimeconfig.json
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\bin\Debug\net8.0\BreakingWork.dll
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\bin\Debug\net8.0\BreakingWork.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.AssemblyInfo.cs
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.dll
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\refint\BreakingWork.dll
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\BreakingWork.genruntimeconfig.cache
+d:\users\fmi\Desktop\C# Parallel Programming\BreakingWork\obj\Debug\net8.0\ref\BreakingWork.dll

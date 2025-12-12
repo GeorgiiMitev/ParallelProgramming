@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\Review\bin\Debug\net8.0\Review.exe
+D:\users\fmi\Desktop\C# Parallel Programming\Review\bin\Debug\net8.0\Review.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\Review\bin\Debug\net8.0\Review.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\Review\bin\Debug\net8.0\Review.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Review\bin\Debug\net8.0\Review.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\refint\Review.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\Review.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Review\obj\Debug\net8.0\ref\Review.dll

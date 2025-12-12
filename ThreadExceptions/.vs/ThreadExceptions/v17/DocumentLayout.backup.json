@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ThreadExceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D774998E-DC96-4E90-8CBC-A21B5110FCAE}|..\\RaceConditionCont\\RaceConditionCont.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\raceconditioncont\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06AE72A-0B11-4481-88F9-C1CBB092C47D}|..\\RaceCondition\\RaceCondition.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\racecondition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E4912E-C441-4B3E-B764-176888FEB6F9}|..\\BreakingWork\\BreakingWork.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\breakingwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7124AC6-ABAE-4043-9E3D-EC0CF7AE5CE1}|..\\WordAnalyzer\\WordAnalyzer.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\wordanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B866DB38-E617-4CBE-BF4D-9476CCFF4163}|ThreadExceptions.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\threadexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B866DB38-E617-4CBE-BF4D-9476CCFF4163}|ThreadExceptions.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBD967C6-724C-4BC0-B58A-27A9A6F95BB2}|..\\CancellingThreads\\CancellingThreads.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\cancellingthreads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\RaceConditionCont\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RaceConditionCont\\Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\RaceConditionCont\\Program.cs",
+              "RelativeToolTip": "..\\RaceConditionCont\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T10:26:38.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\RaceCondition\\Program.cs",
+              "RelativeDocumentMoniker": "..\\RaceCondition\\Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\RaceCondition\\Program.cs",
+              "RelativeToolTip": "..\\RaceCondition\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T09:57:03.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\BreakingWork\\Program.cs",
+              "RelativeDocumentMoniker": "..\\BreakingWork\\Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\BreakingWork\\Program.cs",
+              "RelativeToolTip": "..\\BreakingWork\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA2wDMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T08:58:01.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\WordAnalyzer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WordAnalyzer\\Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\WordAnalyzer\\Program.cs",
+              "RelativeToolTip": "..\\WordAnalyzer\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:50:06.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\CancellingThreads\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CancellingThreads\\Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\CancellingThreads\\Program.cs",
+              "RelativeToolTip": "..\\CancellingThreads\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T07:27:14.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\ThreadExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "d:\\users\\fmi\\Desktop\\C# Parallel Programming\\ThreadExceptions\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T06:56:19.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

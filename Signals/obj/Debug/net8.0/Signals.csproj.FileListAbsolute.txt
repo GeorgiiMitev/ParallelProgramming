@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\bin\Debug\net8.0\Signals.exe
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\bin\Debug\net8.0\Signals.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\bin\Debug\net8.0\Signals.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\bin\Debug\net8.0\Signals.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\bin\Debug\net8.0\Signals.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\refint\Signals.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\Signals.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Signals\obj\Debug\net8.0\ref\Signals.dll

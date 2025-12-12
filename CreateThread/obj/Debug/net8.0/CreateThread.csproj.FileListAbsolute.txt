@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\CreateThread\bin\Debug\net8.0\CreateThread.exe
+d:\users\fmi\Desktop\CreateThread\bin\Debug\net8.0\CreateThread.deps.json
+d:\users\fmi\Desktop\CreateThread\bin\Debug\net8.0\CreateThread.runtimeconfig.json
+d:\users\fmi\Desktop\CreateThread\bin\Debug\net8.0\CreateThread.dll
+d:\users\fmi\Desktop\CreateThread\bin\Debug\net8.0\CreateThread.pdb
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.AssemblyInfo.cs
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.dll
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\refint\CreateThread.dll
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.pdb
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\CreateThread.genruntimeconfig.cache
+d:\users\fmi\Desktop\CreateThread\obj\Debug\net8.0\ref\CreateThread.dll

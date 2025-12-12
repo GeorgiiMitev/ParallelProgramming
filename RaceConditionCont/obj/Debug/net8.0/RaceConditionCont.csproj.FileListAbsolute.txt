@@ -1,0 +1,14 @@
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\bin\Debug\net8.0\RaceConditionCont.exe
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\bin\Debug\net8.0\RaceConditionCont.deps.json
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\bin\Debug\net8.0\RaceConditionCont.runtimeconfig.json
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\bin\Debug\net8.0\RaceConditionCont.dll
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\bin\Debug\net8.0\RaceConditionCont.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.AssemblyInfoInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.AssemblyInfo.cs
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.csproj.CoreCompileInputs.cache
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.dll
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\refint\RaceConditionCont.dll
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.pdb
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\RaceConditionCont.genruntimeconfig.cache
+d:\users\fmi\Desktop\C# Parallel Programming\RaceConditionCont\obj\Debug\net8.0\ref\RaceConditionCont.dll

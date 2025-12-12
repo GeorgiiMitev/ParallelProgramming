@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\bin\Debug\net8.0\Semaphores.exe
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\bin\Debug\net8.0\Semaphores.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\bin\Debug\net8.0\Semaphores.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\bin\Debug\net8.0\Semaphores.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\bin\Debug\net8.0\Semaphores.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\refint\Semaphores.dll
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\Semaphores.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\Semaphores\obj\Debug\net8.0\ref\Semaphores.dll
