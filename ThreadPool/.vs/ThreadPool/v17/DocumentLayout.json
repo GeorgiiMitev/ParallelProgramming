@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ThreadPool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA30599-39A5-4168-BE0E-B2EFF719B89A}|..\\SimpleCache\\SimpleCache.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\simplecache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA30599-39A5-4168-BE0E-B2EFF719B89A}|..\\SimpleCache\\SimpleCache.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\simplecache\\asimplecache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA0AFC0-0B02-4A32-9342-60AF4CB0A698}|..\\ProducerConsumer\\ProducerConsumer.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\producerconsumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA0AFC0-0B02-4A32-9342-60AF4CB0A698}|..\\ProducerConsumer\\ProducerConsumer.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\producerconsumer\\aproducerconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFA792DF-7699-4794-9E0C-14C6328BE8C8}|..\\FanningDemo\\FanningDemo.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\fanningdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15933AAE-BC7A-4002-B6C1-31C5F59E8A62}|..\\FanOutIn\\FanOutIn.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\fanoutin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCF8D29-63ED-4066-A93A-DA273648BB4B}|..\\TaskContinuation\\TaskContinuation.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\taskcontinuation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C4B899-4E2C-41FD-BEB3-85E4589D0808}|..\\TasksIntro\\TasksIntro.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\tasksintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EAAD7D-707D-435E-9FAF-E205194CC304}|..\\WhyTasks\\WhyTasks.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\whytasks\\mythread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EAAD7D-707D-435E-9FAF-E205194CC304}|..\\WhyTasks\\WhyTasks.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\whytasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85D7E895-8A14-4378-AA61-E327C3A8DD5D}|ThreadPool.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\threadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85D7E895-8A14-4378-AA61-E327C3A8DD5D}|ThreadPool.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B0F81B4-5BAC-4267-A8D6-F723F6A762F1}|..\\MoreOnThreadPool\\MoreOnThreadPool.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\moreonthreadpool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BA4C5C-920F-4F4F-874F-F573138AB21C}|..\\AtomicOperations\\AtomicOperations.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\atomicoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ASimpleCache.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\SimpleCache\\ASimpleCache.cs",
+              "RelativeDocumentMoniker": "..\\SimpleCache\\ASimpleCache.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\SimpleCache\\ASimpleCache.cs",
+              "RelativeToolTip": "..\\SimpleCache\\ASimpleCache.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:23:32.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\SimpleCache\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SimpleCache\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\SimpleCache\\Program.cs",
+              "RelativeToolTip": "..\\SimpleCache\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T10:20:23.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AProducerConsumer.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ProducerConsumer\\AProducerConsumer.cs",
+              "RelativeDocumentMoniker": "..\\ProducerConsumer\\AProducerConsumer.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ProducerConsumer\\AProducerConsumer.cs",
+              "RelativeToolTip": "..\\ProducerConsumer\\AProducerConsumer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:46:43.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ProducerConsumer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProducerConsumer\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ProducerConsumer\\Program.cs",
+              "RelativeToolTip": "..\\ProducerConsumer\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:45:41.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\FanningDemo\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FanningDemo\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\FanningDemo\\Program.cs",
+              "RelativeToolTip": "..\\FanningDemo\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:12:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\FanOutIn\\Program.cs",
+              "RelativeDocumentMoniker": "..\\FanOutIn\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\FanOutIn\\Program.cs",
+              "RelativeToolTip": "..\\FanOutIn\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:04:21.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\TaskContinuation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TaskContinuation\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\TaskContinuation\\Program.cs",
+              "RelativeToolTip": "..\\TaskContinuation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:37:51.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\TasksIntro\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TasksIntro\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\TasksIntro\\Program.cs",
+              "RelativeToolTip": "..\\TasksIntro\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:27:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyThread.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\WhyTasks\\MyThread.cs",
+              "RelativeDocumentMoniker": "..\\WhyTasks\\MyThread.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\WhyTasks\\MyThread.cs",
+              "RelativeToolTip": "..\\WhyTasks\\MyThread.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:56:04.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\WhyTasks\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WhyTasks\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\WhyTasks\\Program.cs",
+              "RelativeToolTip": "..\\WhyTasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:53:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AtomicOperations\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AtomicOperations\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AtomicOperations\\Program.cs",
+              "RelativeToolTip": "..\\AtomicOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:42:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\MoreOnThreadPool\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MoreOnThreadPool\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\MoreOnThreadPool\\Program.cs",
+              "RelativeToolTip": "..\\MoreOnThreadPool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:32:04.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ThreadPool\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ThreadPool\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:10:18.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

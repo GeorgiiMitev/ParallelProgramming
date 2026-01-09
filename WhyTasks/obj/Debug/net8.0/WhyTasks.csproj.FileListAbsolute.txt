@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\bin\Debug\net8.0\WhyTasks.exe
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\bin\Debug\net8.0\WhyTasks.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\bin\Debug\net8.0\WhyTasks.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\bin\Debug\net8.0\WhyTasks.dll
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\bin\Debug\net8.0\WhyTasks.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.dll
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\refint\WhyTasks.dll
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\WhyTasks.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\WhyTasks\obj\Debug\net8.0\ref\WhyTasks.dll

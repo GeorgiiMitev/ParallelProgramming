@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\bin\Debug\net8.0\SimpleCache.exe
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\bin\Debug\net8.0\SimpleCache.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\bin\Debug\net8.0\SimpleCache.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\bin\Debug\net8.0\SimpleCache.dll
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\bin\Debug\net8.0\SimpleCache.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.dll
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\refint\SimpleCache.dll
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\SimpleCache.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\SimpleCache\obj\Debug\net8.0\ref\SimpleCache.dll

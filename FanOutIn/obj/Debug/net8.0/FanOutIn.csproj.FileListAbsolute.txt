@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\bin\Debug\net8.0\FanOutIn.exe
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\bin\Debug\net8.0\FanOutIn.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\bin\Debug\net8.0\FanOutIn.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\bin\Debug\net8.0\FanOutIn.dll
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\bin\Debug\net8.0\FanOutIn.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.dll
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\refint\FanOutIn.dll
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\FanOutIn.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\FanOutIn\obj\Debug\net8.0\ref\FanOutIn.dll

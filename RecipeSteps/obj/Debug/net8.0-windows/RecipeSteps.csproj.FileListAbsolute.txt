@@ -1,0 +1,16 @@
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\bin\Debug\net8.0-windows\RecipeSteps.exe
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\bin\Debug\net8.0-windows\RecipeSteps.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\bin\Debug\net8.0-windows\RecipeSteps.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\bin\Debug\net8.0-windows\RecipeSteps.dll
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\bin\Debug\net8.0-windows\RecipeSteps.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.Form1.resources
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.csproj.GenerateResource.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.dll
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\refint\RecipeSteps.dll
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\RecipeSteps.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeSteps\obj\Debug\net8.0-windows\ref\RecipeSteps.dll

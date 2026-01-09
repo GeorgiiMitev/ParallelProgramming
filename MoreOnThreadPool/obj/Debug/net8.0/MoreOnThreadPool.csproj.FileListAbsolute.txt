@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\bin\Debug\net8.0\MoreOnThreadPool.exe
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\bin\Debug\net8.0\MoreOnThreadPool.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\bin\Debug\net8.0\MoreOnThreadPool.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\bin\Debug\net8.0\MoreOnThreadPool.dll
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\bin\Debug\net8.0\MoreOnThreadPool.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.dll
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\refint\MoreOnThreadPool.dll
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\MoreOnThreadPool.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\MoreOnThreadPool\obj\Debug\net8.0\ref\MoreOnThreadPool.dll

@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\bin\Debug\net8.0\TrafficLights.exe
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\bin\Debug\net8.0\TrafficLights.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\bin\Debug\net8.0\TrafficLights.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\bin\Debug\net8.0\TrafficLights.dll
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\bin\Debug\net8.0\TrafficLights.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.dll
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\refint\TrafficLights.dll
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\TrafficLights.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\TrafficLights\obj\Debug\net8.0\ref\TrafficLights.dll

@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\bin\Debug\net8.0\RecipeOutput.exe
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\bin\Debug\net8.0\RecipeOutput.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\bin\Debug\net8.0\RecipeOutput.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\bin\Debug\net8.0\RecipeOutput.dll
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\bin\Debug\net8.0\RecipeOutput.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.dll
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\refint\RecipeOutput.dll
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\RecipeOutput.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\RecipeOutput\obj\Debug\net8.0\ref\RecipeOutput.dll

@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\bin\Debug\net8.0\ProducerConsumer.exe
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\bin\Debug\net8.0\ProducerConsumer.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\bin\Debug\net8.0\ProducerConsumer.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\bin\Debug\net8.0\ProducerConsumer.dll
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\bin\Debug\net8.0\ProducerConsumer.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.dll
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\refint\ProducerConsumer.dll
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ProducerConsumer.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\ProducerConsumer\obj\Debug\net8.0\ref\ProducerConsumer.dll

@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\bin\Debug\net8.0\FanningDemo.exe
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\bin\Debug\net8.0\FanningDemo.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\bin\Debug\net8.0\FanningDemo.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\bin\Debug\net8.0\FanningDemo.dll
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\bin\Debug\net8.0\FanningDemo.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.dll
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\refint\FanningDemo.dll
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\FanningDemo.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\FanningDemo\obj\Debug\net8.0\ref\FanningDemo.dll

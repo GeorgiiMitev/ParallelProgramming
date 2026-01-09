@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\bin\Debug\net8.0\TasksIntro.exe
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\bin\Debug\net8.0\TasksIntro.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\bin\Debug\net8.0\TasksIntro.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\bin\Debug\net8.0\TasksIntro.dll
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\bin\Debug\net8.0\TasksIntro.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.dll
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\refint\TasksIntro.dll
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\TasksIntro.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\TasksIntro\obj\Debug\net8.0\ref\TasksIntro.dll

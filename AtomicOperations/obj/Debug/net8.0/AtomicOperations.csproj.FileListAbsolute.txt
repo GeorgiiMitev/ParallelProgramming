@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\bin\Debug\net8.0\AtomicOperations.exe
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\bin\Debug\net8.0\AtomicOperations.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\bin\Debug\net8.0\AtomicOperations.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\bin\Debug\net8.0\AtomicOperations.dll
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\bin\Debug\net8.0\AtomicOperations.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.dll
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\refint\AtomicOperations.dll
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\AtomicOperations.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\AtomicOperations\obj\Debug\net8.0\ref\AtomicOperations.dll
