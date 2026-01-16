@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\bin\Debug\net8.0\AsyncAwaitExceptions.exe
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\bin\Debug\net8.0\AsyncAwaitExceptions.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\bin\Debug\net8.0\AsyncAwaitExceptions.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\bin\Debug\net8.0\AsyncAwaitExceptions.dll
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\bin\Debug\net8.0\AsyncAwaitExceptions.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.dll
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\refint\AsyncAwaitExceptions.dll
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\AsyncAwaitExceptions.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\AsyncAwaitExceptions\obj\Debug\net8.0\ref\AsyncAwaitExceptions.dll

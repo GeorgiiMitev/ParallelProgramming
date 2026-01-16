@@ -1,0 +1,14 @@
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\bin\Debug\net8.0\CountdownEventDemo.exe
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\bin\Debug\net8.0\CountdownEventDemo.deps.json
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\bin\Debug\net8.0\CountdownEventDemo.runtimeconfig.json
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\bin\Debug\net8.0\CountdownEventDemo.dll
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\bin\Debug\net8.0\CountdownEventDemo.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.AssemblyInfoInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.AssemblyInfo.cs
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.csproj.CoreCompileInputs.cache
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.dll
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\refint\CountdownEventDemo.dll
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.pdb
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\CountdownEventDemo.genruntimeconfig.cache
+D:\users\fmi\Desktop\C# Parallel Programming\CountdownEvent\obj\Debug\net8.0\ref\CountdownEventDemo.dll

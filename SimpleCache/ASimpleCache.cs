@@ -10,20 +10,26 @@ namespace SimpleCache
     {
         Dictionary<string, object> cache { get; set; } = new Dictionary<string, object>();
 
+        ManualResetEventSlim canReadSignal = new ManualResetEventSlim(true);
+
+        int activeReaders = 0;
+
         public bool TryGetValue(string key, out object value)
         {
-            lock (cache)
-            {
-                return cache.TryGetValue(key, out value);
-            }
-
+            canReadSignal.Wait();
+            Interlocked.Increment(ref activeReaders); // increase the number of current readers
+            var result = cache.TryGetValue(key, out value);
+            Interlocked.Decrement(ref activeReaders); // i am not reading anymore, decrease the number of readers
+            return result;
         }
 
         public void Add(string key, object value)
         {
             lock (cache)
             {
-                cache[key] = value;              
+                canReadSignal.Reset(); // tells readers they cannot proceed and must wait
+                cache[key] = value;    
+                canReadSignal.Set(); //lets all pending readers read.
             }
         }
     }

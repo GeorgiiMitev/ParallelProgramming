@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AsyncResult\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{899898C3-C7C3-4110-A34C-0D9B039B4503}|..\\CountdownEvent\\CountdownEvent.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\countdownevent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555DCD47-1FCB-4C13-905A-399B4AA79953}|..\\AsyncAwaitExceptions\\AsyncAwaitExceptions.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\asyncawaitexceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C4DA9-EF60-43CD-966A-57239478B3DC}|..\\ParallelismWithAsyncAwait\\ParallelismWithAsyncAwait.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\parallelismwithasyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4966E22E-C2C0-47F9-B9FC-2BA1F08E2211}|AsyncResult.csproj|d:\\users\\fmi\\desktop\\c# parallel programming\\asyncresult\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4966E22E-C2C0-47F9-B9FC-2BA1F08E2211}|AsyncResult.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\CountdownEvent\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CountdownEvent\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\CountdownEvent\\Program.cs*",
+              "RelativeToolTip": "..\\CountdownEvent\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T09:33:12.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AsyncAwaitExceptions\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AsyncAwaitExceptions\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AsyncAwaitExceptions\\Program.cs",
+              "RelativeToolTip": "..\\AsyncAwaitExceptions\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T08:05:20.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ParallelismWithAsyncAwait\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ParallelismWithAsyncAwait\\Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\ParallelismWithAsyncAwait\\Program.cs",
+              "RelativeToolTip": "..\\ParallelismWithAsyncAwait\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T07:50:27.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AsyncResult\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\users\\fmi\\Desktop\\C# Parallel Programming\\AsyncResult\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:51:54.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
